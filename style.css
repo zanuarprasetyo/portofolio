@@ -1,0 +1,19 @@
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #1b3c73;
+}
+#projects {
+    background-color: #1b3c73;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.kontak{
+    background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
